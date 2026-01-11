@@ -1,6 +1,6 @@
 # Awesome Python Project Ideas for All Skill Levels
 
-This repository offers a curated collection of engaging Python project ideas, thoughtfully categorized by difficulty: Beginner (Easy), Intermediate (Medium), and Advanced. Whether you're just starting your Python journey or looking for a challenging endeavor, you'll find inspiration here to enhance your coding skills and build your portfolio. Dive in and start creating!
+This repository offers a curated collection of engaging Python project ideas, thoughtfully categorized by difficulty: Beginner (Easy), Intermediate (Medium), and Advanced. Whether you're just starting your Python journey or looking for a challenging endeavor, you'll find inspiration here to enhance your coding skills and build your portfolio. Dive in and start creating!!
 
 ---
 
