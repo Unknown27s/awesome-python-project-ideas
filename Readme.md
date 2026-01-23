@@ -4,7 +4,7 @@ This repository offers a curated collection of engaging Python project ideas, th
 
 ---
 
-## Beginner (Easy)
+## Beginner (Easy) folder
 
 These projects are perfect for those new to Python and programming fundamentals.
 
@@ -26,11 +26,11 @@ Create a text-based interactive story where the user's decisions dictate the nar
 
 ---
 
-## Intermediate (Medium)
+## Intermediate (Medium) folder
 
 These projects involve more complex concepts and libraries, suitable for those with a solid grasp of Python basics.
 
-### #5 - Password Manager
+### #5 - Password Manager 
 
 Build a secure application to store and manage multiple passwords. This involves encryption techniques and file handling for data persistence.
 
@@ -96,7 +96,7 @@ Develop a program that automatically backs up specified files or directories to 
 
 ---
 
-## Advanced
+## Advanced (Hard) folder
 
 These projects demand a deeper understanding of Python and often involve more complex algorithms, libraries, or system interactions.
 
