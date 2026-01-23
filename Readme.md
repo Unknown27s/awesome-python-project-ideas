@@ -4,7 +4,7 @@ This repository offers a curated collection of engaging Python project ideas, th
 
 ---
 
-## Beginner (Esay) folder
+## Beginner (Easy) folder
 
 These projects are perfect for those new to Python and programming fundamentals.
 
