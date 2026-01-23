@@ -60,7 +60,7 @@ def main():
 
         elif options == 4:
             print("Thank Q for visiting")
-            is_runnning == False
+            is_runnning = False
 
         else:
             print("Invalid Input")
