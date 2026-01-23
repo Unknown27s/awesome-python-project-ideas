@@ -4,7 +4,7 @@ This repository offers a curated collection of engaging Python project ideas, th
 
 ---
 
-## Beginner (Easy) folder
+## Beginner (Esay) folder
 
 These projects are perfect for those new to Python and programming fundamentals.
 
@@ -124,4 +124,12 @@ Develop an application to track expenses and income. This project will involve d
  Build a tool that extracts data from websites. This project will teach you about web requests and data parsing.
 
 
+---
 
+## Expert (God Level) folder
+
+These projects are for the masters of Python. They involve advanced concepts like Artificial Intelligence, complex algorithms, and system-level programming.
+
+### #25 - Self-Driving Car Simulation
+
+Create a simulation of a self-driving car using Reinforcement Learning and Computer Vision. This project will require you to build a physics engine, implement a neural network for the car's brain, and train it to navigate a track without crashing.
