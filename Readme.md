@@ -24,7 +24,7 @@ Implement the well-known game where the user competes against the computer. This
 
 Create a text-based interactive story where the user's decisions dictate the narrative path and outcome. This project focuses on branching logic and user input.
 
-### #26 - Hangman Game
+### #5 - Hangman Game
 
 A word guessing game with ASCII art hangman display. Players guess letters to reveal a hidden word before the hangman is complete.
 
@@ -34,75 +34,75 @@ A word guessing game with ASCII art hangman display. Players guess letters to re
 
 These projects involve more complex concepts and libraries, suitable for those with a solid grasp of Python basics.
 
-### #5 - Password Manager
+### #6 - Password Manager
 
 Build a secure application to store and manage multiple passwords. This involves encryption techniques and file handling for data persistence.
 
 **Key Technology:** [Fernet Cryptography Documentation](https://cryptography.io/en/latest/fer/)
 
-### #6 - PIG
+### #7 - PIG
 
 Develop a two-player dice game with simple rules. This project involves game logic and scorekeeping.
 
-### #7 - Madlibs Generator
+### #8 - Madlibs Generator
 
 Create a script that takes user input for various parts of speech and inserts them into a template story, generating humorous and unique results. This focuses on string manipulation.
 
-### #8 - Timed Math Challenge
+### #9 - Timed Math Challenge
 
 Design a program that presents users with math problems of varying difficulty and tracks their response time and accuracy.
 
-### #9 - Slot Machine
+### #10 - Slot Machine
 
 Simulate a basic slot machine with different symbols and payout rules. This project involves random number generation and conditional logic for determining wins.
 
-### #10 - Turtle Racing
+### #11 - Turtle Racing
 
 Explore Python's `turtle` graphics library to create a visual race between multiple animated turtles.
 
 **Helpful Resource:** [Turtle Graphics Documentation](https://docs.python.org/3/library/turtle.html)
 
-### #11 - WPM Typing Test
+### #12 - WPM Typing Test
 
 Build a command-line application that tests the user's typing speed and accuracy. This might involve handling user input in real-time.
 
 **Useful Resource:** [Curses Library Documentation](https://docs.python.org/3/howto/curses.html)
 
-### #12 - Alarm Clock
+### #13 - Alarm Clock
 
 Develop a simple alarm clock that allows the user to set an alarm and plays a sound at the specified time.
 
-### #13 - Password Generator
+### #14 - Password Generator
 
 Create a more robust password generator that allows users to customize password length and include various character types (uppercase, lowercase, numbers, symbols).
 
-### #14 - Shortest Path Finder
+### #15 - Shortest Path Finder
 
 Implement a pathfinding algorithm like Dijkstra's or A\* to find the shortest route between two points on a grid or graph.
 
-### #15 - NBA Stats & Current Scores
+### #16 - NBA Stats & Current Scores
 
 Utilize an external API to fetch and display real-time or recent statistics and scores from NBA games.
 
-### #16 - Currency Converter
+### #17 - Currency Converter
 
 Build a tool that converts amounts between different currencies using a public exchange rate API.
 
 **Suggested API:** [Free Currency Converter API](https://free.currencyconverterapi.com/)
 
-### #17 - YouTube Video Downloader
+### #18 - YouTube Video Downloader
 
 Create a script that allows users to download YouTube videos (be mindful of the platform's terms of service).
 
-### #18 - Automated File Backup
+### #19 - Automated File Backup
 
 Develop a program that automatically backs up specified files or directories to a designated location at scheduled intervals.
 
-### #19 - Todo List Manager
+### #20 - Todo List Manager
 
 A command-line task management application with priorities, search functionality, and persistent storage using JSON.
 
-### #20 - Chess Game
+### #21 - Chess Game
 
 A two-player chess game with move validation, board display, and proper game rules implementation.
 
@@ -112,35 +112,35 @@ A two-player chess game with move validation, board display, and proper game rul
 
 These projects demand a deeper understanding of Python and often involve more complex algorithms, libraries, or system interactions.
 
-### #19 - Mastermind/4 Color Match
+### #22 - Mastermind/4 Color Match
 
 Implement the logic for the code-breaking game Mastermind, where the player tries to guess a secret sequence of colors.
 
-### #20 - Aim Trainer
+### #23 - Aim Trainer
 
 Develop a graphical game that challenges the user's aiming skills, potentially using libraries like Pygame.
 
-### #21 - Advanced Python Scripting
+### #24 - Advanced Python Scripting
 
 This category encompasses more intricate scripting tasks, such as system automation, network analysis tools, or sophisticated data processing pipelines.
 
-### #22 - Ebay Price Tracker
+### #25 - Ebay Price Tracker
 
 Create a tool that monitors eBay listings for price changes. This will combine web scraping with data visualization.
 
-### #23 - Personal Finance Tracker
+### #26 - Personal Finance Tracker
 
 Develop an application to track expenses and income. This project will involve database management and user interface design.
 
-### #24 - Web Scraper
+### #27 - Web Scraper
 
 Build a tool that extracts data from websites. This project will teach you about web requests and data parsing.
 
-### #25 - Discord Bot
+### #28 - Discord Bot
 
 A feature-rich Discord bot with commands for games, utilities, server information, and user management.
 
-### #26 - Machine Learning Image Classifier
+### #29 - Machine Learning Image Classifier
 
 A convolutional neural network that classifies handwritten digits using TensorFlow and the MNIST dataset.
 
@@ -150,11 +150,11 @@ A convolutional neural network that classifies handwritten digits using TensorFl
 
 These projects are for the masters of Python. They involve advanced concepts like Artificial Intelligence, complex algorithms, and system-level programming.
 
-### #25 - Self-Driving Car Simulation
+### #30 - Self-Driving Car Simulation
 
 Create a simulation of a self-driving car using Reinforcement Learning and Computer Vision. This project will require you to build a physics engine, implement a neural network for the car's brain, and train it to navigate a track without crashing.
 
-### #26 - Reinforcement Learning Game Agent
+### #31 - Reinforcement Learning Game Agent
 
 A Q-learning agent that learns to play Tic-Tac-Toe through reinforcement learning, with separate game logic, agent implementation, and training/playback interface.
 
