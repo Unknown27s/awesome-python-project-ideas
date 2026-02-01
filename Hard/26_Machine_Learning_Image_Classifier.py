@@ -3,7 +3,6 @@ from tensorflow import keras
 import numpy as np
 import matplotlib.pyplot as plt
 from PIL import Image
-import io
 
 class ImageClassifier:
     def __init__(self):
