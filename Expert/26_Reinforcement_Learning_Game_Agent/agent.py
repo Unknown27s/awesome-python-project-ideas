@@ -91,17 +91,17 @@ class QLearningAgent:
             available_actions = game.get_available_actions()
             action = self.choose_action(state, available_actions)
             print(f"Agent plays at position {action}")
-            game.print_board()
 
             next_state, reward, done = game.make_move(action)
             state = next_state
+            game.print_board()
 
             if not done:
                 print("\nYour turn:")
-                game.print_board()
                 human_action = game.get_human_move()
                 next_state, reward, done = game.make_move(human_action)
                 state = next_state
+                game.print_board()
 
         game.print_board()
         if game.winner == 1:
