@@ -154,7 +154,7 @@ These projects are for the masters of Python. They involve advanced concepts lik
 
 Create a simulation of a self-driving car using Reinforcement Learning and Computer Vision. This project will require you to build a physics engine, implement a neural network for the car's brain, and train it to navigate a track without crashing.
 
-### #31 - Reinforcement Learning Game Agent
+### #26 - Reinforcement Learning Game Agent
 
 A Q-learning agent that learns to play Tic-Tac-Toe through reinforcement learning, with separate game logic, agent implementation, and training/playback interface.
 
