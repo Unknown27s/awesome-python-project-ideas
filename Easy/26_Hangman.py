@@ -83,7 +83,11 @@ def play_hangman():
     print("_ " * len(word))
 
     while tries > 0 and word_letters:
-        guess = input("Guess a letter: ").upper()
+        while True:
+            guess = input("Guess a letter: ").strip().upper()
+            if len(guess) == 1 and guess.isalpha():
+                break
+            print("Invalid input. Please enter a single alphabetic character.")
 
         if guess in guessed_letters:
             print("You already guessed that letter.")
